@@ -1,0 +1,22 @@
+16B 1.0 By MedMath (Nu Jamal)
+
+16B is a simple project than converts a 24bit bmp file into a 16bit bmp file
+
+ALSO:
+1.) For fun, it creates two other text files
+    -16asm:
+     a file with 16bit (word) arrays in separate rows
+     for low level OS development with assembly.
+
+    -32asm:
+    a file with 32bit (dword) arrays in separate rows
+    for low level 32bit assembly programming.
+
+USAGE:
+1.) Click the App.
+2.) Open a BMP image.
+3.) Done. 3 new files appear beside the App.
+    -16bits.BMP
+    -16asm.TXT
+    -32asm.TXT
+4.) Enjoy 
